@@ -637,7 +637,7 @@ Version: 1.0
 /*----------------------------------------------------*/
 
 .promo-1 {
-	background: url("../../img/cover2.jpg") center top no-repeat;
+	background: url("../../img/cover22.jpg") center top no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -2925,7 +2925,7 @@ Version: 1.0
 .filter li a:focus,
 .filter li a.active
 {
-    color: #1ABC9C;
+    color: #FFB068;
     text-decoration: none;
 }
 
@@ -3656,7 +3656,7 @@ Version: 1.0
 
 #contact span.required {
 	font-size: 13px;
-	color: #ff0000;
+	color: #FBC2C4;
 }
 
 #message {
@@ -4129,7 +4129,7 @@ Version: 1.0
 }
 
 .copyright-bar p {
-	color: #ffffff;
+	color: aliceblue;
 	font-weight: 700;
 	margin: 0;
 }

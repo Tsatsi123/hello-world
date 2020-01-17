@@ -130,7 +130,7 @@ header("Location: patient/patient.php");
 						<div class="col-md-3 col-sm-3">
 							
 							<div class="user-wrapper">
-								<img src="assets/img/1.jpg" class="img-responsive" />
+								<img src="assets/img/images (pozz).jpeg" class="img-responsive" />
 								<div class="description">
 									<h4><?php echo $userRow['patientFirstName']; ?> <?php echo $userRow['patientLastName']; ?></h4>
 									<h5> <strong> Website Designer </strong></h5>
