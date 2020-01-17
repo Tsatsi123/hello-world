@@ -8,7 +8,7 @@
 
 body {
     margin-top: 100px;
-    background-color: #222;
+    background-color: rgb(124, 116, 116);
 }
 
 @media(min-width:768px) {
@@ -25,7 +25,7 @@ body {
     min-height: 900px !important;
     width: 100%;
     padding: 0;
-    background-color: #fff;
+    background-color: rgb(151, 126, 126);
 }
 
 .huge {
@@ -66,8 +66,8 @@ body {
 .top-nav>.open>a,
 .top-nav>.open>a:hover,
 .top-nav>.open>a:focus {
-    color: #white;
-    background-color: #000;
+    color:  #fff;
+    background-color: #000 ;
 }
 
 .top-nav>.open>.dropdown-menu {
@@ -192,21 +192,21 @@ ul.alert-dropdown {
 }
 
 .panel-red {
-    border-color: #d9534f;
+    border-color: #b87e7c;
 }
 
 .panel-red > .panel-heading {
-    border-color: #d9534f;
+    border-color: #b87e7c;
     color: #fff;
-    background-color: #d9534f;
+    background-color:  #b87e7c;
 }
 
 .panel-red > a {
-    color: #d9534f;
+    color:  #b87e7c;
 }
 
 .panel-red > a:hover {
-    color: #b52b27;
+    color:  #b87e7c;
 }
 
 .panel-yellow {

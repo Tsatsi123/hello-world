@@ -8,7 +8,7 @@
 
 body {
     margin-top: 100px;
-    background-color: #222;
+    background-color: rgb(38, 12, 80);
 }
 
 @media(min-width:768px) {
@@ -25,7 +25,7 @@ body {
     min-height: 900px !important;
     width: 100%;
     padding: 0;
-    background-color: #fff;
+    background-color: rgb(243, 217, 217);
 }
 
 .huge {
@@ -58,7 +58,7 @@ body {
     padding-top: 17px;
     padding-bottom: 10px;
     line-height: 45px;
-    color: white;
+    color: rgba(255, 255, 255, 0.705);
 }
 
 .top-nav>li>a:hover,
@@ -66,7 +66,7 @@ body {
 .top-nav>.open>a,
 .top-nav>.open>a:hover,
 .top-nav>.open>a:focus {
-    color: #white;
+    color: #d9534f;
     background-color: #000;
 }
 
@@ -74,10 +74,10 @@ body {
     float: left;
     position: absolute;
     margin-top: 0;
-    border: 1px solid rgba(0,0,0,.15);
+    border: 1px solid rgba(116, 122, 59, 0.15);
     border-top-left-radius: 0;
     border-top-right-radius: 0;
-    background-color: #fff;
+    background-color: rgb(41, 52, 117);
     -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
     box-shadow: 0 6px 12px rgba(0,0,0,.175);
 }
@@ -95,7 +95,7 @@ ul.message-dropdown {
 
 li.message-preview {
     width: 275px;
-    border-bottom: 1px solid rgba(0,0,0,.15);
+    border-bottom: 1px solid rgba(167, 24, 59, 0.15);
 }
 
 li.message-preview>a {
@@ -123,7 +123,7 @@ ul.alert-dropdown {
         border: none;
         border-radius: 0;
         overflow-y: auto;
-        background-color: #222;
+        background-color: rgb(58, 36, 58);
         bottom: 0;
         overflow-x: hidden;
         padding-bottom: 40px;
@@ -136,7 +136,7 @@ ul.alert-dropdown {
     .side-nav li a:hover,
     .side-nav li a:focus {
         outline: none;
-        background-color: #000 !important;
+        background-color: rgb(214, 137, 137) !important;
     }
 }
 
@@ -148,11 +148,11 @@ ul.alert-dropdown {
     display: block;
     padding: 10px 15px 10px 38px;
     text-decoration: none;
-    color: #999;
+    color: rgb(143, 6, 6);
 }
 
 .side-nav>li>ul>li>a:hover {
-    color: #fff;
+    color: rgb(58, 153, 49);
 }
 
 /* Flot Chart Containers */

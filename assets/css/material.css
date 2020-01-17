@@ -67,8 +67,8 @@ h1 {
   margin: 0.67em 0;
 }
 mark {
-  background: #ff0;
-  color: #000;
+  background: #92cf94;
+  color: #212121;
 }
 small {
   font-size: 80%;
@@ -248,7 +248,7 @@ th {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: rgb(129, 75, 75) !important;
   }
   .table-bordered th,
   .table-bordered td {
@@ -2736,7 +2736,7 @@ select[multiple].input-sm {
   line-height: 1.3333333;
   border-radius: 3px;
 }
-select.input-lg {-
+select.input-lg {
   height: 45px;
   line-height: 45px;
 }

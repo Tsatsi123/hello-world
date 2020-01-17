@@ -13,11 +13,11 @@
     height: auto;
 }
 .filterable .filters input[disabled]::-webkit-input-placeholder {
-    color: #333;
+    color: rgb(77, 57, 57);
 }
 .filterable .filters input[disabled]::-moz-placeholder {
-    color: #333;
+    color: rgb(77, 57, 57);
 }
 .filterable .filters input[disabled]:-ms-input-placeholder {
-    color: #333;
+    color: rgb(77, 57, 57);
 }
